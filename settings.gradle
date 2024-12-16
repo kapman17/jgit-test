@@ -1,0 +1,3 @@
+rootProject.name = 'jgit-test'
+include 'demo'
+
